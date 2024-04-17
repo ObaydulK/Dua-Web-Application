@@ -13,7 +13,7 @@ const Main = () => {
             <div className="col-span-9">
                 <Outlet />
             </div>
-            <div className=" col-span-2 bg-stone-400 ">
+            <div className=" col-span-2   ">
                 <Setting />
             </div>
         </div>
