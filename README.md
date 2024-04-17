@@ -7,7 +7,7 @@ This template provides a company.
 
 1. Use This Database for creating endpoints to fetch categories, subcategories, and duas. Node JS is recommended for this.
 
-2. Use Tailwind CSS & NEXT JS to clone the full UI of this link-
+2. Use Tailwind CSS & REACT JS to clone the full UI of this link-
 
 ![Dua Ruqyah Test](https://github.com/ObaydulK/Dua-Web-Application/assets/88238461/db573aed-4895-447b-856e-3785c15d91cf)
 Figma File Link : https://www.figma.com/file/rb4NkC5FXbDhQw6wbl2BTC/Dua-Ruqyah-Test?type=design&node-id=0-1&mode=design
