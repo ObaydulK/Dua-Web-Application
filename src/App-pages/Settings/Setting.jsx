@@ -2,7 +2,7 @@
 const Setting = () => {
     return (
         <div className="" >
-            Setting
+            Setting nice now
         </div>
     );
 };
