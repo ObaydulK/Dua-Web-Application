@@ -6,7 +6,7 @@ import Nevber from "../App-pages/Navber/Nevber";
 
 const Main = () => {
     return (
-        <div className=" grid grid-cols-12 gap-4 ">
+        <div className=" grid grid-cols-12 gap-4 p-6 font-serif">
             <div className=" col-span-1 ">
                 <Nevber />
             </div>

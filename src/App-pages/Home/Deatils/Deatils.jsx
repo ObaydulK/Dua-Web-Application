@@ -1,19 +1,32 @@
 import img from "../../../assets/allah 1 (Traced).png";
+import copy from "../../../assets/copy.png";
+import bookmark from "../../../assets/bookmark 1.png";
+import Group from "../../../assets/Group.png";
+import share from "../../../assets/share 1.png";
+import report from "../../../assets/report 1.png";
+
 
 const Deatils = () => {
     return (
         <div className="grid grid-flow-row  gap-4   " >
             <div className="text-start  rounded-lg bg-white shadow-2xl p-4 items-center text-[16] " > <span className="text-[#1FA45B] ">Section : </span> The servant is dependent on his Lord </div>
             <div className="text-start  rounded-lg bg-white shadow-2xl p-4 items-center text-[16] " >
-                <h1 className="text-[#1FA45B] flex items-center gap-4 ">  <img src={img} alt="" srcset="" /> 1.The servant is dependent on his Lord #1</h1>
+                <h1 className="text-[#1FA45B] flex items-center gap-4 ">  <img src={img} alt="" /> 1.The servant is dependent on his Lord #1</h1>
                 <p className="py-4 text-justify ">All human beings depend on Allah for their welfare and prevention of evil in various matters of their religion and world. Allah says (interpretation of the meaning): O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy. </p>
 
                 <p className=" text-[#1FA45B]">Reference :</p>
                 <p className="pb-6">Surah Al-Fatir 35-15</p>
+                <div className="  flex gap-6 justify-end  ">
+                    <img src={copy} alt="" />
+                    <img src={bookmark} alt="" />
+                    <img src={Group} alt="" />
+                    <img src={share} alt="" />
+                    <img src={report} alt="" />
+                </div>
             </div>
 
             <div className="text-start  rounded-lg bg-white shadow-2xl p-4 items-center text-[16] " >
-                <h1 className="text-[#1FA45B] flex items-center gap-4 ">  <img src={img} alt="" srcset="" /> 2. Conditions for Dua to be successful</h1>
+                <h1 className="text-[#1FA45B] flex items-center gap-4 ">  <img src={img} alt="" /> 2. Conditions for Dua to be successful</h1>
                 <p className="py-4 text-justify ">Prophet (ﷺ) used to say after every compulsory prayer, The servant will ask his Lord for all of his religiously and worldly needs, because the treasure of all things is in the hands of Allah. Allah says (interpretation of the meaning): “And there is not a thing but that with Us are its depositories, and We do not send it down except according to a known measure.” (Sura Al-Hijr 15:21) No one can withhold what Allah gives; And, no one can give what he resists. </p>
 
                 <div className="text-end py-4">
@@ -26,6 +39,13 @@ const Deatils = () => {
                 </div>
                 <p className=" text-[#1FA45B]">Reference :</p>
                 <p className="pb-6">Surah Al-Fatir 35-15</p>
+                <div className="  flex gap-6 justify-end  ">
+                    <img src={copy} alt="" />
+                    <img src={bookmark} alt="" />
+                    <img src={Group} alt="" />
+                    <img src={share} alt="" />
+                    <img src={report} alt="" />
+                </div>
             </div>
 
 

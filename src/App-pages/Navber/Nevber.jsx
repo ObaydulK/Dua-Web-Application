@@ -15,12 +15,12 @@ const Nevber = () => {
         <div className="bg-slate-50 py-10 px-6 shadow-2xl rounded ">
             <Link to='/' > <img src={HomeImg} alt="" /> </Link>
             <div className="  flex flex-col gap-6  text-3xl items-center py-36 ">
-                <Link to='/' > <CiHome /> </Link>
+                <Link to='/' > <CiHome />   </Link>
                 <Link to='/deshboard' > <RxDashboard /></Link>
-                <Link to='/ ' > <FaRegLightbulb /></Link>
-                <Link to='/ ' > <CiBookmark /></Link>
-                <Link to='/ ' ><LuMessagesSquare /></Link>
-                <Link to='/ ' > <IoBookOutline /></Link>
+                <Link to='/lightbulb' > <FaRegLightbulb /></Link>
+                <Link to='/bookmark' > <CiBookmark /></Link>
+                <Link to='/messagessquar' ><LuMessagesSquare /></Link>
+                <Link to='/bookoutline' > <IoBookOutline /></Link>
 
 
             </div>

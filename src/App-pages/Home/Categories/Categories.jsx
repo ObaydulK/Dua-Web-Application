@@ -5,7 +5,7 @@ const Categories = () => {
     return (
         <div className="shadow-2xl rounded-3xl ">
             <div className=" text-black ">
-                <h1 className="bg-green-600 text-white py-4 rounded-tr-2xl rounded-tl-2xl " >Categories</h1>
+                <h1 className="bg-green-600 text-white py-4 rounded-tr-2xl rounded-tl-2xl text-center " >Categories</h1>
 
                 <div className="collapse collapse-plus bg-base-200 text-start">
                     <input type="radio" name="my-accordion-3" defaultChecked />
